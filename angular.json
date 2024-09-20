@@ -95,18 +95,8 @@
             "scripts": []
           }
         },
-<<<<<<< HEAD
         "deploy": {
           "builder": "angular-cli-ghpages:deploy"
-=======
-        {
-          "deploy": {
-            "builder": "angular-cli-ghpages:deploy",
-            "options": {
-              "buildTarget": "test:build:production"
-              }
-          }
->>>>>>> a5be0f311b9ad44161dab53a38940fc109486a98
         }
       }
     }
